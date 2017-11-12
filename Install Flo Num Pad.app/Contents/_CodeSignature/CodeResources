@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Flo Num Pad.kmmacros</key>
+		<data>
+		IL0sza1gvKdSIAuXKBr9t8aktnw=
+		</data>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
 		KZMsan68k71o0IcYDXleldqJKiE=
@@ -14,7 +18,7 @@
 		</data>
 		<key>Resources/applet.rsrc</key>
 		<data>
-		QDuF52AM9VzZjpQB5i5WmRvH4CM=
+		GvrZPEno2CXOIHr5EIlagEnZoXc=
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
@@ -23,6 +27,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/Flo Num Pad.kmmacros</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IL0sza1gvKdSIAuXKBr9t8aktnw=
+			</data>
+			<key>hash2</key>
+			<data>
+			/rh9eKVuCxYoQf5OmOJrtlBcV8hOo+WdUTuSM0wuGmQ=
+			</data>
+		</dict>
 		<key>Resources/Scripts/main.scpt</key>
 		<dict>
 			<key>hash</key>
@@ -49,11 +64,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QDuF52AM9VzZjpQB5i5WmRvH4CM=
+			GvrZPEno2CXOIHr5EIlagEnZoXc=
 			</data>
 			<key>hash2</key>
 			<data>
-			z91HsnsBiSsJNct47kXLFDTXo4JzD4B5JkaTH3mKSQ8=
+			WLyKkr1twBVI/BMiePurkh7J2CVTqf2iDN/y0bp3x6s=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>
